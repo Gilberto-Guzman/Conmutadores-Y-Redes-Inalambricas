@@ -30,4 +30,4 @@ Nota: Esto se debe de repetir con cada uno de los equipos.
 
 # Carpeta de Github
 
-aaa
+https://github.com/Gilberto-Guzman/Conmutadores-Y-Redes-Inalambricas/tree/main/Act.%201.3%20Configurar%20un%20Router%20dhcp%20LAN%20con%201237%20Nodos%20Grupo%20M
