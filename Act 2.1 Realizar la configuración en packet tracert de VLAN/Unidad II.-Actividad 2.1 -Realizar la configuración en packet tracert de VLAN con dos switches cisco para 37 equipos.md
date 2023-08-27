@@ -85,4 +85,4 @@ Se **restringe la comunicación** entre los equipos que no forman parte de la mi
 
 # Carpeta de Github
 
-aaa
+https://github.com/Gilberto-Guzman/Conmutadores-Y-Redes-Inalambricas/tree/main/Act%202.1%20Realizar%20la%20configuraci%C3%B3n%20en%20packet%20tracert%20de%20VLAN
