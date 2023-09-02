@@ -148,4 +148,4 @@ Se **restringe la comunicación** entre los equipos que no forman parte de la mi
 
 # Carpeta de Github
 
-aaa
+https://github.com/Gilberto-Guzman/Conmutadores-Y-Redes-Inalambricas/tree/main/Act.%202.2%20Ruteo%20entre%20vlans%202%2C3%2C4%2C5
