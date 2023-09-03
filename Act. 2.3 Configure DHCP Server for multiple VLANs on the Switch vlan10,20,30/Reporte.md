@@ -95,4 +95,4 @@ Se **restringe la comunicación** entre los equipos que no forman parte de la mi
 
 # Carpeta de Github
 
-aaa
+https://github.com/Gilberto-Guzman/Conmutadores-Y-Redes-Inalambricas/tree/main/Act.%202.3%20Configure%20DHCP%20Server%20for%20multiple%20VLANs%20on%20the%20Switch%20vlan10%2C20%2C30
