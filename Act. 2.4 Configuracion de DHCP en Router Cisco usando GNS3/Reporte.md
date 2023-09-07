@@ -70,4 +70,4 @@ Se **permite la comunicación** entre ambos equipos.
 
 # Carpeta de Github
 
-aaa
+https://github.com/Gilberto-Guzman/Conmutadores-Y-Redes-Inalambricas/tree/main/Act.%202.4%20Configuracion%20de%20DHCP%20en%20Router%20Cisco%20usando%20GNS3
