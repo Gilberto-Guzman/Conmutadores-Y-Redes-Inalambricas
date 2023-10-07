@@ -1,7 +1,5 @@
 # 3. Configura y verifica un VTP en GNs3 un ejemplo (anexar el url de github).
 
-Para la realización de esta práctica se utilizó el siguiente contenido audiovisual: https://www.youtube.com/watch?v=AD0GpYQy7hw
-
 ## Topología.
 
 ![](imgs/capture_1.png)
