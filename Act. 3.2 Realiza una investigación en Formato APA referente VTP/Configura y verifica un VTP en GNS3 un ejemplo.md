@@ -1,5 +1,9 @@
 # 3. Configura y verifica un VTP en GNS3 un ejemplo (anexar el url de github).
 
+## Archivo.
+
+https://github.com/Gilberto-Guzman/Conmutadores-Y-Redes-Inalambricas/blob/main/Act.%203.2%20Realiza%20una%20investigaci%C3%B3n%20en%20Formato%20APA%20referente%20VTP/A200119_ACT3.2_Ejemplo.rar
+
 ## Topología.
 
 ![](imgs/capture_1.png)
