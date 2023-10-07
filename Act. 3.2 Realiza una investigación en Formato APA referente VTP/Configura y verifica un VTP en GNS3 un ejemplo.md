@@ -1,4 +1,4 @@
-# 3. Configura y verifica un VTP en GNs3 un ejemplo (anexar el url de github).
+# 3. Configura y verifica un VTP en GNS3 un ejemplo (anexar el url de github).
 
 ## Topología.
 
