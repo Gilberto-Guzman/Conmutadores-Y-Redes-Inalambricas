@@ -14,7 +14,7 @@ Por ahora la solución temporal que he encontrado, es hacer una nueva partición
 
 ### Práctica.
 
-aaa
+https://github.com/Gilberto-Guzman/Conmutadores-Y-Redes-Inalambricas/blob/main/Act.%204.2%20Realizar%20un%20ejercicio%20de%20protocolo%20SPT%20en%20GNS3/A200119ACT4.2.rar
 
 ### 1. Visualización de la jerarquía predeterminada.
 
